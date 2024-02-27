@@ -49,10 +49,3 @@ Github Stats
 
 <br />
 
-----
-﻿
-Byte
-e7.t
-https://solo.to/h2k
-
-a Cyber security Researcher
